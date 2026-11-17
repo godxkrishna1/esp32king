@@ -3,7 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B3D,100:00E5FF&height=220&section=header&text=ESP32KING&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=KRISHNA%20RAJPUT%20UP61&descAlignY=58&descSize=20" width="100%" />
 
-# 👑 ESP32KING
+<div align="center">
+  <img src="[YOUR_IMAGE_UR](https://raw.githubusercontent.com/godxkrishna1/esp32king/refs/heads/main/esp32king.png)L" width="100%" alt="ESP32KING Banner">
+</div>
 ### KRISHNA RAJPUT UP61
 
 **HARDWARE DEVELOPER • CYBERSECURITY RESEARCHER • EMBEDDED SYSTEMS ENGINEER**

@@ -3,7 +3,7 @@
 👑 ESP32KING
 KRISHNA RAJPUT UP61
 
-Independent Hardware Developer | Embedded Systems Engineer | Security Researcher
+Independent Hardware Developer | Cybersecurity Researcher  | Embedded Systems Engineer | Security Researcher | Offensive Security | ESP32 Firmware Developer | Wireless Security Researcher
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ESP32+Firmware+Developer;Embedded+Systems+Explorer;Wireless+Technology+Enthusiast;Open+Source+Creator;Building+Beyond+Limits." />
 

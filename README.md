@@ -1,234 +1,290 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111B3D,100:00E5FF&height=220&section=header&text=ESP32KING&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=KRISHNA%20RAJPUT%20UP61&descAlignY=58&descSize=20" width="100%" />
+
 👑 ESP32KING
 KRISHNA RAJPUT UP61
 
-Independent Hardware Developer | Cybersecurity Researcher  | Embedded Systems Engineer | Security Researcher | Offensive Security | ESP32 Firmware Developer | Wireless Security Researcher
+HARDWARE DEVELOPER • CYBERSECURITY RESEARCHER • EMBEDDED SYSTEMS ENGINEER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=ESP32+Firmware+Developer;Embedded+Systems+Explorer;Wireless+Technology+Enthusiast;Open+Source+Creator;Building+Beyond+Limits." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=OFFENSIVE+SECURITY+RESEARCHER;ESP32+FIRMWARE+DEVELOPER;WIRELESS+SECURITY+SPECIALIST;EMBEDDED+SYSTEMS+ENGINEER;HARDWARE+%2B+CYBERSECURITY;BUILDING+BEYOND+LIMITS." />
 
-<p>
+<br/>
+
 <a href="https://github.com/esp32king2">
-<img src="https://img.shields.io/badge/GitHub-ESP32KING2-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-ESP32KING2-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 <a href="https://esp32king.pages.dev">
-<img src="https://img.shields.io/badge/ROYAL-WEB%20FLASHER-00C7FF?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/ROYAL%20WEB%20FLASHER-LAUNCH-101820?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
 </a>
 <a href="https://instagram.com/krishna_upx61">
-<img src="https://img.shields.io/badge/Instagram-Krishna__UPX61-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-KRISHNA__UPX61-101820?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
-</p>
+
+<br/><br/>
 
 "I'M BACK. BUILT DIFFERENT. POWERED BY ESP32." ⚡
 
-Turning low-cost hardware into powerful open-source technology.
+Engineering hardware. Exploring security. Building the future.
 
 </div>
 
-👨‍💻 ABOUT THE DEVELOPER
+👨‍💻 WHO IS ESP32KING?
+yaml
+Name: Krishna Rajput
+Alias:
+  - ESP32KING
+  - Krishna UPX61
+Location: Uttar Pradesh, India 🇮🇳
 
-Hello, World! I'm Krishna Rajput UP61, also known as Krishna UPX61 / ESP32KING.
+Identity:
+  - Independent Hardware Developer
+  - Cybersecurity Researcher
+  - Embedded Systems Engineer
+  - Offensive Security Researcher
+  - ESP32 Firmware Developer
 
-I'm an independent hardware developer and embedded security researcher from Uttar Pradesh, India 🇮🇳.
+Focus:
+  - Embedded Security
+  - Wireless Security Research
+  - Custom ESP32 Firmware
+  - Hardware Automation
+  - Network Diagnostics
+  - Open Source Development
 
-My passion is exploring the limits of microcontrollers and developing innovative hardware solutions using ESP32 technology.
+Mission: Build. Research. Experiment. Innovate.
 
-I build tools that combine embedded firmware, wireless communication, automation, and browser-based interfaces.
 
-🎯 What I Do
-⚡ ESP32 firmware development and hardware experimentation
-📡 Wireless networking and communication systems
-🌐 Standalone web servers and offline applications
-🔐 Authorized wireless security research and network diagnostics
-⌨️ Wi-Fi and BLE HID automation
-🔧 Custom firmware flashing and deployment tools
-🚀 Open-source embedded technology
-My goal is simple: Make powerful hardware technology accessible to everyone.
-👑 ESP32 KING — ROYAL WEB FLASHER
+I'm Krishna Rajput UP61, an independent hardware developer and cybersecurity researcher passionate about exploring the intersection of embedded systems, wireless technologies, and information security.
+
+I develop custom firmware, experimental hardware tools, wireless communication systems, security research utilities, and browser-based deployment platforms.
+
+My work focuses on transforming affordable microcontrollers into powerful standalone systems.
+
+🔐 CYBERSECURITY & OFFENSIVE SECURITY
 
 <div align="center">
 
-Flash Your ESP32. Directly From Your Browser.
-
-<a href="https://esp32king.pages.dev">
-<img src="https://img.shields.io/badge/LAUNCH-ROYAL%20WEB%20FLASHER-00D9FF?style=for-the-badge&logo=espressif&logoColor=white" />
-</a>
-
-No Arduino IDE. No complicated setup. Just Connect, Select & Flash.
+<img src="https://img.shields.io/badge/DOMAIN-OFFENSIVE%20SECURITY-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20SECURITY-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RESEARCH-WIRELESS%20SECURITY-00FF99?style=for-the-badge" />
 
 </div>
 
-The ESP32 KING Royal Web Flasher is a browser-based firmware deployment and chip diagnostic platform powered by the Web Serial API.
+Exploring security from the hardware level to wireless communication and network infrastructure.
 
-⚡ Features
-Feature	Description
-One-Click Flashing	Upload custom .bin firmware
-Chip Detection	Read ESP32 chip information
-MAC Information	Display device MAC address
-Crystal Frequency	Detect crystal frequency
-High-Speed Flashing	Baud rates up to 921600
-Flash Erase	Full chip erase support
-Compressed Upload	Support compressed flashing
-Auto Reset	Automatic reset after programming
-Serial Terminal	Live serial output monitoring
-Log Management	Copy serial logs instantly
+Research & Development Areas
 
-🌐 Website: https://esp32king.pages.dev
+🔴 Offensive Security Research & Authorized Penetration Testing
+📡 Wireless Network Security & Auditing
+🔍 Wi-Fi Protocol Analysis & Network Diagnostics
+🌐 DNS Monitoring & HTTP Traffic Analysis
+🛡️ Embedded Device Security Research
+🔵 Bluetooth Low Energy (BLE) Research
+⌨️ HID-Based Hardware Automation
+🔐 Security Testing & Firmware Experimentation
+🧪 Network Behavior Analysis
+⚙️ Custom Security Firmware Development
 
-🚀 FEATURED PROJECTS
-01. 💬 ESP32-WiFi-Chat
+All security research and testing is conducted on authorized systems and controlled environments.
 
-Offline Communication | Local Web Server
+⚡ ROYAL WEB FLASHER
 
-A standalone messaging platform that transforms an ESP32 into an independent local communication server.
+<div align="center">
 
-Features:
+<img src="https://img.shields.io/badge/PROJECT-ESP32%20KING-111827?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
+
+👑 THE ROYAL WEB FLASHER
+
+Your ESP32. Your Firmware. Your Browser.
+
+<a href="https://esp32king.pages.dev">
+<img src="https://img.shields.io/badge/🚀%20LAUNCH%20WEB%20FLASHER-00D9FF?style=for-the-badge&logoColor=black" />
+</a>
+
+</div>
+
+A browser-based ESP32 firmware flashing and chip diagnostic platform powered by the Web Serial API.
+
+Core Capabilities
+
+Feature	Capability
+Firmware Flashing	Custom BIN deployment
+Chip Diagnostics	ESP32 chip information
+MAC Detection	Device MAC information
+Crystal Detection	Crystal frequency
+High-Speed Mode	Up to 921600 baud
+Flash Erase	Full flash erase
+Compressed Upload	Compressed firmware support
+Auto Reset	Automatic device reset
+Serial Monitor	Real-time serial output
+Log Tools	One-click log copying
+
+Website: https://esp32king.pages.dev
+
+🚀 FLAGSHIP PROJECTS
+👑 01 — ESP32-WiFi-Chat
+
+<kbd>ESP32</kbd> <kbd>OFFLINE</kbd> <kbd>COMMUNICATION</kbd> <kbd>APACHE-2.0</kbd>
+
+Your own local communication network. No internet required.
+
+A standalone communication platform that turns an ESP32 into a local Wi-Fi messaging server.
 
 Offline Wi-Fi hotspot.
-Captive portal-based access.
+Captive portal access.
 Real-time multi-user messaging.
 Custom username selection.
-On-device message history.
-No internet or mobile application required.
-Designed for low-power and off-grid environments.
+Persistent on-device message history.
+Low-power off-grid communication concept.
 
-License: Apache-2.0
+Repository: https://github.com/Esp32-WiFi-Chat
 
-🔗 Repository: https://github.com/Esp32-WiFi-Chat
+📡 02 — ESP32-WiFi-Sniffer
 
-02. 📡 ESP32-WiFi-Sniffer
+<kbd>WIRELESS RESEARCH</kbd> <kbd>NETWORK DIAGNOSTICS</kbd> <kbd>ESP32</kbd>
 
-Wireless Research | Network Diagnostics
-
-An ESP32-based wireless auditing and educational security research platform.
-
-Features:
+An embedded wireless research and security demonstration platform.
 
 Wireless network diagnostics.
 Captive portal demonstrations.
 DNS traffic monitoring.
-HTTP request monitoring in controlled environments.
+HTTP request analysis in controlled environments.
 Local web administration dashboard.
-Educational wireless security experiments.
+Educational network security experiments.
 
-🔗 Explore: https://github.com/esp32king2
+Repository: https://github.com/esp32king2
 
-03. ⌨️ ESP32-WiFi-Keyboard-Mouse
+⌨️ 03 — ESP32-WiFi-Keyboard-Mouse
 
-Wireless HID | Remote Input Control
+<kbd>HID</kbd> <kbd>WI-FI</kbd> <kbd>BLE</kbd> <kbd>AUTOMATION</kbd>
 
-A wireless input control system powered by ESP32.
+A wireless input and hardware automation platform powered by ESP32.
 
-Features:
-
-Browser-based keyboard interface.
-Wireless mouse control.
+Browser-based keyboard control.
+Wireless mouse interface.
 Local network communication.
 BLE HID experimentation.
 Custom automation workflows.
 
-🔗 Repository: https://github.com/Esp32-WiFi-Keyboard-Mouse
+Repository: https://github.com/Esp32-WiFi-Keyboard-Mouse
 
-04. 🔓 ESP32-FRP-BYPASS
+🔓 04 — ESP32-FRP-BYPASS
 
-Hardware Automation | Android Research
+<kbd>HARDWARE AUTOMATION</kbd> <kbd>ANDROID RESEARCH</kbd>
 
 An ESP32-based hardware automation research project exploring authorized Android device servicing workflows.
 
-Focus:
-
-HID-based hardware experimentation.
+HID hardware experimentation.
 Device interaction automation.
 Embedded controller development.
 Authorized device servicing research.
-05. 📶 ESP32-WiFi-Repeater
+📶 05 — ESP32-WiFi-Repeater
 
-Wireless Networking | Connectivity
+<kbd>NETWORKING</kbd> <kbd>CONNECTIVITY</kbd> <kbd>ESP32</kbd>
 
-An experimental ESP32 networking project focused on extending wireless connectivity.
-
-Focus:
+An experimental embedded networking project exploring wireless connectivity extension.
 
 Wi-Fi networking experiments.
 Network bridging concepts.
 Connectivity management.
 Embedded networking research.
-🛠️ TECHNOLOGY & SKILLS
-Hardware
+🛠️ TECH STACK & ARSENAL
+⚙️ Embedded Hardware
 
-<p>
+<img src="https://skillicons.dev/icons?i=arduino,cpp,c" />
+
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=red" />
 <img src="https://img.shields.io/badge/ESP32--S2-000000?style=for-the-badge&logo=espressif" />
 <img src="https://img.shields.io/badge/ESP32--S3-000000?style=for-the-badge&logo=espressif" />
 <img src="https://img.shields.io/badge/ESP32--C3-000000?style=for-the-badge&logo=espressif" />
-</p>
 
-Programming & Development
+💻 Programming & Web Development
 
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js" />
 
-Protocols & Technologies
-802.11 Wi-Fi
-Bluetooth Low Energy (BLE)
+🔐 Cybersecurity & Networking
+
+<img src="https://img.shields.io/badge/Wi--Fi-802.11-00C7FF?style=for-the-badge&logo=wifi&logoColor=white" />
+<img src="https://img.shields.io/badge/Bluetooth-BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+<img src="https://img.shields.io/badge/Network-Diagnostics-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded-Security-00FF99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HID-Automation-FF6B6B?style=for-the-badge" />
+
+🌐 Protocols & Technologies
+IEEE 802.11 Wireless Networking
+Bluetooth Low Energy
 UART / Serial Communication
-DNS and HTTP
+DNS / HTTP
 Web Serial API
 Embedded Web Servers
-HID Interfaces
-📊 GITHUB STATISTICS
+Captive Portal Technology
+Human Interface Device (HID)
+📊 GITHUB PERFORMANCE
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=esp32king2&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=esp32king2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esp32king2&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esp32king2&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=FFFFFF" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=esp32king2&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=esp32king2&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF" />
 
 </div>
 
-🌍 OPEN SOURCE & COMMUNITY
-
-I believe in sharing knowledge, building useful tools, and making embedded technology accessible.
-
-My projects are intended to help developers, electronics enthusiasts, makers, and researchers explore the possibilities of affordable hardware.
-
-Contributions, ideas, testing, and collaboration are always welcome.
-
-📜 LICENSE & ATTRIBUTION
-
-Most open-source projects are released under the Apache License 2.0, as specified by their individual repositories.
-
-If you fork, redistribute, or build upon my work, please respect the original license and retain appropriate attribution.
-
-Original Creator:
-
-Krishna Rajput UP61 (esp32king2)
-
-GitHub: https://github.com/esp32king2
-
-⚠️ DISCLAIMER
-
-Projects involving wireless auditing, network monitoring, HID automation, and device servicing are intended for educational research, hardware experimentation, and authorized testing only.
-
-Always obtain proper authorization before testing devices or networks. Users are responsible for complying with applicable laws and respecting others' privacy.
+🐍 CONTRIBUTION GRAPH
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/esp32king2/esp32king2/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+
+</div>
+
+🌍 OPEN SOURCE MOVEMENT
+
+I believe technology should be accessible, experimental, and open to innovation.
+
+My goal is to contribute useful tools and knowledge to the global embedded systems and cybersecurity communities.
+
+What I welcome:
+
+Open-source collaboration.
+Hardware experimentation.
+Security research discussions.
+Firmware contributions.
+Bug reports and feature suggestions.
+Developer and maker communities.
+📜 LICENSE & ATTRIBUTION
+
+Most of my open-source projects use the Apache License 2.0, subject to their individual repository licenses.
+
+Please respect the original license, copyright notices, and attribution requirements when redistributing or building upon my work.
+
+Original Creator: Krishna Rajput UP61 (esp32king2)
+
+GitHub: https://github.com/esp32king2
+
+⚠️ SECURITY DISCLAIMER
+
+All cybersecurity, wireless auditing, HID automation, and embedded security projects are intended for educational purposes, authorized security research, and controlled hardware experimentation.
+
+Always obtain permission before testing networks, devices, or systems. Unauthorized access and misuse are not supported.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:111B3D,100:050816&height=130&section=footer" width="100%" />
+
 👑 ESP32KING
-THINK. BUILD. EXPERIMENT. INNOVATE.
+THINK DIFFERENT. BUILD SMARTER. RESEARCH DEEPER.
 
-Powered by ESP32 | Driven by Innovation | Built for Open Source
+HARDWARE × CYBERSECURITY × INNOVATION
 
-Made with ❤️ by Krishna Rajput UP61
+Made with ❤️ by KRISHNA RAJPUT UP61
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-00FF88?style=for-the-badge" />
+<a href="https://github.com/esp32king2">
+<img src="https://img.shields.io/badge/FOLLOW%20THE%20JOURNEY-ESP32KING2-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=esp32king2&label=PROFILE%20VISITORS&color=00F7FF&style=flat-square" />
 
 </div>
